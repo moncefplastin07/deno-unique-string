@@ -1,0 +1,15 @@
+{
+  "name": "unique-string",
+  "version": "1.0.0",
+  "description": "random and unique string or ID's for deno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deno-unique-string"
+  },
+  "author": "Moncef Gaha <moncefplastin07@gmail.com>",
+  "license": "ISC"
+}
