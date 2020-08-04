@@ -1,6 +1,7 @@
 {
   "name": "unique-string",
   "version": "1.0.0",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "description": "random and unique string or ID's for deno",
   "main": "index.js",
   "scripts": {
